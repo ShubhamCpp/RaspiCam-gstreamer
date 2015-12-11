@@ -60,7 +60,7 @@ Now run the Shell Script :-
 
 Download Gstreamer from :- [Gstreamer](http://gstreamer.freedesktop.org/download)
 
-Install the GStreamer Software :-
+##### Install the GStreamer Software :-
 
 Do a Complete Install, as Typical Install leads to an error in the end.
 
