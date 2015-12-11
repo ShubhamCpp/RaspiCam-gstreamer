@@ -76,6 +76,8 @@ Now type the following command on the command prompt :-
 
 ` gst-launch-1.0 -v tcpclientsrc host=VIDSERVERIP port=5000 ! gdpdepay ! rtph264depay ! avdec_h264 ! videoconvert ! autovideosink sync=false`
 
+Where <VIDSERVERIP> is the IP Address of your Raspberry Pi.
+
 And Boom....
 You can now see the Stream on you're Windows Machine.........
 
@@ -96,4 +98,3 @@ Launch a terminal and type
 Where <IP-OF-THE-PI> is the IP Address of your Raspberry Pi.
 
 And Enjoy!!!!!!!
-
