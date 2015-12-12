@@ -100,7 +100,8 @@ Where `<IP-OF-THE-PI> ` is the IP Address of your Raspberry Pi.
 And Enjoy!!!!!!!
 
 # Alternatives
-This is one the best of solutions for Web Streaming Applications and gets the job done. You may also want to try UV4L for your applications.
+This is one the best of solutions for Web Streaming Applications and gets the job done. You may also want to try UV4L for your applications.It's your choice, I personally found Gstreamer faster, however, it requires scripts running on both Server and Client Ends. I like the universaltiy of UV4L.
+
 For more details go to my GitHub Account Page : [ShubhamCpp](https://github.com/ShubhamCpp)
 Here I have explored various other technologies, these include :-
 
@@ -113,3 +114,5 @@ Here I have explored various other technologies, these include :-
 4. UV4L and UV4L-Raspicam
 
 I got the best experience with Gstreamer for my application, however you may feel that something else works out for you better. This will depend on the application you are developing. I'll be happy if anyone of the following help you out in some way. :)
+
+
