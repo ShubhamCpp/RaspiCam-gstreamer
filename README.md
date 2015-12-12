@@ -95,12 +95,12 @@ Launch a terminal and type
 
 `gst-launch-1.0 -v tcpclientsrc host=<IP-OF-THE-RPI> port=5000  ! gdpdepay !  rtph264depay ! avdec_h264 ! videoconvert ! osxvideosink sync=false `
 
-Where `<IP-OF-THE-PI>` is the IP Address of your Raspberry Pi.
+Where `<IP-OF-THE-PI> ` is the IP Address of your Raspberry Pi.
 
 And Enjoy!!!!!!!
 
 # Alternatives
-This is really not the best of solutions, but it kind of gets the job done.
+This is one the best of solutions for Web Streaming Applications and gets the job done. You may also want to try UV4L for your applications.
 For more details go to my GitHub Account Page : [ShubhamCpp](https://github.com/ShubhamCpp)
 Here I have explored various other technologies, these include :-
 
