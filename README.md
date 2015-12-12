@@ -98,3 +98,18 @@ Launch a terminal and type
 Where <IP-OF-THE-PI> is the IP Address of your Raspberry Pi.
 
 And Enjoy!!!!!!!
+
+# Alternatives
+This is really not the best of solutions, but it kind of gets the job done.
+For more details go to my GitHub Account Page : [ShubhamCpp](https://github.com/ShubhamCpp)
+Here I have explored various other technologies, these include :-
+
+1. MJPEG using HTTP Web Sockets
+
+2. FFMPEG using HTTP Web Sockets
+
+3. Gstreamer (Best in my opinion) (Discussed Here)
+
+4. UV4L and UV4L-Raspicam
+
+I got the best experience with Gstreamer for my application, however you may feel that something else works out for you better. This will depend on the application you are developing. I'll be happy if anyone of the following help you out in some way. :)
