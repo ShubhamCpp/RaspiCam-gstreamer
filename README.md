@@ -87,7 +87,7 @@ Launch a terminal and type
 
 ` gst-launch-1.0 -v tcpclientsrc host=<IP-OF-THE-RPI> port=5000  ! gdpdepay !  rtph264depay ! avdec_h264 ! videoconvert ! autovideosink sync=false`
 
-Where <IP-OF-THE-PI> is the IP Address of your Raspberry Pi.
+Where `<IP-OF-THE-PI> ` is the IP Address of your Raspberry Pi.
 
 ### For MAC OSX
 
@@ -95,7 +95,7 @@ Launch a terminal and type
 
 `gst-launch-1.0 -v tcpclientsrc host=<IP-OF-THE-RPI> port=5000  ! gdpdepay !  rtph264depay ! avdec_h264 ! videoconvert ! osxvideosink sync=false `
 
-Where <IP-OF-THE-PI> is the IP Address of your Raspberry Pi.
+Where `<IP-OF-THE-PI>` is the IP Address of your Raspberry Pi.
 
 And Enjoy!!!!!!!
 
